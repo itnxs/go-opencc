@@ -1,7 +1,9 @@
 # OpenCC Chinese Convert 中文轉換
+```
+ go version >= go 1.16
+```
 
 ### 預設配置文件
-
 * `s2t.json` Simplified Chinese to Traditional Chinese 簡體到繁體
 * `t2s.json` Traditional Chinese to Simplified Chinese 繁體到簡體
 * `s2tw.json` Simplified Chinese to Traditional Chinese (Taiwan Standard) 簡體到臺灣正體
@@ -16,7 +18,6 @@
 * `t2jp.json` Traditional Chinese Characters (Kyūjitai) to New Japanese Kanji (Shinjitai) 繁體（OpenCC 標準，舊字體）到日文新字體
 * `jp2t.json` New Japanese Kanji (Shinjitai) to Traditional Chinese Characters (Kyūjitai) 日文新字體到繁體（OpenCC 標準，舊字體）
 * `tw2t.json` Traditional Chinese (Taiwan standard) to Traditional Chinese 臺灣正體到繁體（OpenCC 標準）
-
 
 ### 使用
 ```
