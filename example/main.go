@@ -11,7 +11,7 @@ func main() {
 		panic(err)
 	}
 
-	txt, err := s2tw.Convert("中国台湾简体转换")
+	txt, err := s2tw.Convert("背包")
 	if err != nil {
 		panic(err)
 	}

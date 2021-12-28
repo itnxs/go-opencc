@@ -8,19 +8,15 @@ import (
 
 const (
 	HK2S = "hk2s"
-	HK2T = "hk2t"
-	JP2T = "jp2t"
 	S2HK = "s2hk"
 	S2T = "s2t"
 	S2TW = "s2tw"
 	S2TWP = "s2twp"
 	T2HK = "t2hk"
-	T2JP = "t2jp"
 	T2S = "t2s"
 	T2TW = "t2tw"
 	TW2S = "tw2s"
 	TW2SP = "tw2sp"
-	TW2T = "tw2t"
 )
 
 var punctuations = []string{
